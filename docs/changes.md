@@ -1,3 +1,19 @@
+![IMG_20240120_094741390_HDR](https://github.com/topjohnwu/Magisk/assets/60636949/e3ccd091-d04e-4273-9ad0-fc9ec6f576f6)
+![IMG_20240131_124144737](https://github.com/topjohnwu/Magisk/assets/60636949/ad71ab06-4e8d-4812-ace7-b0f4e5d04336)
+![IMG_20240131_124204031](https://github.com/topjohnwu/Magisk/assets/60636949/0e1d85ac-be7a-4d5f-a6c5-044cee9e1b00)
+![IMG_20240131_124217685](https://github.com/topjohnwu/Magisk/assets/60636949/fbe7894d-3930-41df-9fa6-46c9c294369d)
+![IMG_20240131_124220950](https://github.com/topjohnwu/Magisk/assets/60636949/0278213b-35dc-44f3-af21-7f1b8edba921)
+![IMG_20240206_022522355](https://github.com/topjohnwu/Magisk/assets/60636949/45aaeee6-e932-4dfd-ac48-a68893e01da4)
+![IMG_20240206_022704452](https://github.com/topjohnwu/Magisk/assets/60636949/2328914b-da50-4cc2-a032-6a0fc08e60ce)
+![IMG_20240206_022705657](https://github.com/topjohnwu/Magisk/assets/60636949/59aaf6aa-17b3-454b-9505-60104543186e)
+![IMG_20240206_023027321](https://github.com/topjohnwu/Magisk/assets/60636949/d6205a51-89ee-4efa-941d-b604bc574219)
+![IMG_20240206_023125026](https://github.com/topjohnwu/Magisk/assets/60636949/e8541d56-4bab-430c-ab17-136fb98a6057)
+![Screenshot_20240209-110833](https://github.com/topjohnwu/Magisk/assets/60636949/c2d46d2f-4dc5-4177-8245-fe305cd6a0a5)
+![IMG_20240120_094741390_HDR](https://github.com/topjohnwu/Magisk/assets/60636949/53ff1a38-776b-40e3-aa63-82f935861236)
+![IMG_20240206_022704452](https://github.com/topjohnwu/Magisk/assets/60636949/fd3238d5-1aff-48a8-8f26-d1011f3bde54)
+![IMG_20240206_022705657](https://github.com/topjohnwu/Magisk/assets/60636949/5c30e55c-cb96-43fe-a1fc-0feb185225d3)
+![IMG_20240206_023027321](https://github.com/topjohnwu/Magisk/assets/60636949/e6c4ab9a-9f31-43a2-95a1-c2a5134fd761)
+![IMG_20240206_023125026](https://github.com/topjohnwu/Magisk/assets/60636949/091c7d32-34c0-48e3-a87b-a7d8735b6c0d)
 # Magisk Changelog
 
 ### v27.0
@@ -766,7 +782,10 @@
 - New paths to toggle busybox, and support all root solutions
 - Remove root management API; both SuperSU and phh has their own superior solutions
 
-### v6
+### v6![IMG_20240206_023027321](https://github.com/topjohnwu/Magisk/assets/60636949/feb0ced1-6e7e-4fc9-bd5a-87a294045434)
+![IMG_20240206_023125026](https://github.com/topjohnwu/Magisk/assets/60636949/2c3557c9-d8be-4eb3-af18-88f54f4dad49)
+![Screenshot_20240209-110833](https://github.com/topjohnwu/Magisk/assets/60636949/368efb46-9260-4663-9b28-057ce0baff7e)
+
 
 - Fixed the algorithm for adding new files and dummy system
 - Updated the module template with a default permission, since people tend to forget them :)
@@ -798,7 +817,16 @@
 ### v2
 
 - Fix verity patch. It should now work on all devices (might fix some of the unable-to-boot issues)
-- All scripts will now run in selinux permissive mode for maximum compatibility (this will **NOT** turn your device to permissive)
+- All scripts will now run in selinux permissive mode for maximum compatibility (this will **NOT** turn your device to pe![IMG_20240120_094741390_HDR](https://github.com/topjohnwu/Magisk/assets/60636949/074748e1-2353-4ff7-9e26-1bffb279461c)
+![IMG_20240131_124144737](https://github.com/topjohnwu/Magisk/assets/60636949/dc338fff-fece-4aa5-9712-94f6a17fcdc5)
+![IMG_20240131_124204031](https://github.com/topjohnwu/Magisk/assets/60636949/3c017df3-3099-48c7-8fe6-d326ac6a5180)
+![IMG_20240131_124217685](https://github.com/topjohnwu/Magisk/assets/60636949/efdde807-ba84-429d-997d-ca8e48fe1b2a)
+![IMG_20240131_124220950](https://github.com/topjohnwu/Magisk/assets/60636949/d2b78732-0232-4aa9-a881-9bea1b9eebc3)
+![Screenshot_20240203-152223](https://github.com/topjohnwu/Magisk/assets/60636949/e2623293-5d14-4f92-817e-25e45b4e8d61)
+![IMG_20240206_022522355](https://github.com/topjohnwu/Magisk/assets/60636949/72e4e89e-a1d4-4907-b19d-90e1a18b35b1)
+![IMG_20240206_022704452](https://github.com/topjohnwu/Magisk/assets/60636949/b9dd3a6a-0927-4704-86a2-921af6fe8f3c)
+![IMG_20240206_022705657](https://github.com/topjohnwu/Magisk/assets/60636949/708467f2-c94d-4803-ae63-f1b0b2d4ffab)
+rmissive)
 - Add Nougat Developer Preview 5 support
 - Add systemless host support for AdBlock Apps (enabled by default)
 - Add support for new root disable method
